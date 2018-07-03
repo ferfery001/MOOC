@@ -1,2 +1,6 @@
 # MOOC
-Compiled material of MOO.
+Compiled material of Massive Online Open Courses, or simply MOOCs.
+
+## Index 
+
+To be filled.
