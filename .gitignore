@@ -1,8 +1,11 @@
 # Working files
-notMNIST_large
-notMNIST_small
 *.tar.gz
 *.zip
 *.pickle
-notMNIST_large/
-notMNIST_small/
+
+
+# Working folders
+Udemy_Deep_Learning/notMNIST_large
+Udemy_Deep_Learning/notMNIST_small
+Udemy_Deep_Learning/notMNIST_large/
+Udemy_Deep_Learning/notMNIST_small/
