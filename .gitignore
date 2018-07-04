@@ -1,0 +1,8 @@
+# Working files
+notMNIST_large
+notMNIST_small
+*.tar.gz
+*.zip
+*.pickle
+notMNIST_large/
+notMNIST_small/
